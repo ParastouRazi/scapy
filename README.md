@@ -14,6 +14,12 @@ https://github.com/ParastouRazi/scapy/assets/85788536/f1f7a80d-bec9-4578-9883-a1
 
 compelte video in youtube channel:
 
+https://www.youtube.com/watch?v=EVW0mPw95ko
+
+Scapy Arp spoofing:
+
+https://www.youtube.com/watch?v=It_uqdrjx8U
+
 
 
 
